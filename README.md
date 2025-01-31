@@ -17,7 +17,7 @@ Download the source code from the repository and run the file just as any other 
 python snake.py
 ```
 
-The `init_velocity` variable can be changed with the values provided in the comment to set the init_velocity level.
+The `init_velocity` variable can be changed with the values provided in the comment to set the difficulty level.
 
 The rest of the code is properly commented and self explanatory. Tweaks can be made to change the play style or visuals of the game.
 

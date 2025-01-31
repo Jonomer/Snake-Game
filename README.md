@@ -24,13 +24,13 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 
 ## Screenshots
 
-![1](https://raw.githubusercontent.com/Jonomer/Snake-Game/refs/heads/main/start.png)
+![start](https://github.com/user-attachments/assets/47ede78b-9334-47a6-b168-c45ea11095fc)
 *Written using VS Code*
 
-![2](https://raw.githubusercontent.com/Jonomer/Snake-Game/refs/heads/main/game.png)
+![game](https://github.com/user-attachments/assets/e04ceb14-96f1-4e86-9ff4-3ab943001e62)
 *Active game screen*
 
-![3](https://raw.githubusercontent.com/Jonomer/Snake-Game/refs/heads/main/end.png)
+![end](https://github.com/user-attachments/assets/90ad383f-d993-46c2-ac97-4a518dce1df3)
 *Game over screen*
 
 ## Prerequisites

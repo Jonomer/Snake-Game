@@ -44,4 +44,4 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 
 ## Authors
 
-* **Jonomer** - *Initial work*
+* **Jonomer** 

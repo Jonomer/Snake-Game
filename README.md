@@ -18,6 +18,9 @@ python snake.py
 ```
 
 The `init_velocity` variable can be changed with the values provided in the comment to set the difficulty level.
+```
+init_velocity = 8   # Yılan Hızını Ayarlamak İsterseniz Azaltabilir - Yükseltebilirsiniz.
+```
 
 The rest of the code is properly commented and self explanatory. Tweaks can be made to change the play style or visuals of the game.
 

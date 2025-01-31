@@ -23,3 +23,12 @@ The rest of the code is properly commented and self explanatory. Tweaks can be m
 
 
 ## Screenshots
+
+![1](https://raw.githubusercontent.com/Jonomer/Snake-Game/refs/heads/main/start.png)
+*Written using PyCharm*
+
+![2](https://raw.githubusercontent.com/Jonomer/Snake-Game/refs/heads/main/game.png)
+*Active game screen*
+
+![3](https://raw.githubusercontent.com/Jonomer/Snake-Game/refs/heads/main/end.png)
+*Game over screen*

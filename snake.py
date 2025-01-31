@@ -72,7 +72,7 @@ def gameloop():
     food_x = random.randint(20, screen_width - 30)
     food_y = random.randint(60, screen_height - 30)
     score = 0
-    init_velocity = 8 # Yılan Hızını Ayarlamak İsterseniz Azaltabilir - Yükseltebilirsiniz.
+    init_velocity = 8 # If you want to adjust the snake speed, you can increase or decrease it.
     snake_size = 30
     fps = 60
 
